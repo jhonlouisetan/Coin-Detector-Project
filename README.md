@@ -1,8 +1,10 @@
 ## About
+Title: Simple Smart Coin Counter and Detector through Arduino and Proteus
+
 A simple smart coin counter and detector project using Arduino and Proteus.
 
 ## Purpose
-A partial requirement for CS175 Artificial Intelligence
+A research paper and project for CS175 Artificial Intelligence
 
 ## Members
 - James Matthew Avancena
