@@ -1,6 +1,6 @@
-## About
-Title: Simple Smart Coin Counter and Detector through Arduino and Proteus
+# Simple Smart Coin Counter and Detector through Arduino and Proteus
 
+## About
 A simple smart coin counter and detector project using Arduino and Proteus.
 
 ## Purpose
