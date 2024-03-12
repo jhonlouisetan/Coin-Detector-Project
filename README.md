@@ -7,6 +7,6 @@ A simple smart coin counter and detector project using Arduino and Proteus.
 A research paper and project for CS175 Artificial Intelligence
 
 ## Members
-- James Matthew Avancena
-- Jazper Gualberto
-- Jhon Louise Tan
+- James Matthew Avancena (Project Manager)
+- Jazper Gualberto (Document-In-Charge)
+- Jhon Louise Tan (Developer)
